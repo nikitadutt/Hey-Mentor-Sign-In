@@ -30,7 +30,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/actual-sign-in.git
+git clone https://github.com/nikitadutt/Hey-Mentor-Sign-In.git
 cd actual-sign-in
 
 # Install dependencies
