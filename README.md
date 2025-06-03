@@ -38,3 +38,11 @@ npm install
 
 # Start the development server
 npm run dev
+```
+
+--
+
+## Screenshot
+Here’s a look at the sign-in page built with React and TailwindCSS:
+
+![Sign-In Page Screenshot](./Sign-In%20Page.png)
