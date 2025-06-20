@@ -40,7 +40,7 @@ npm install
 npm run dev
 ```
 
---
+---
 
 ## Screenshot
 Here’s a look at the sign-in page built with React and TailwindCSS:
