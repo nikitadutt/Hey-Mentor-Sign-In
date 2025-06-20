@@ -24,23 +24,6 @@ A responsive and visually polished **sign-in page** built using **React.js**, **
 
 ---
 
-## 🧑‍💻 Getting Started
-
-To run the project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/nikitadutt/Hey-Mentor-Sign-In.git
-cd actual-sign-in
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
----
 
 ## Screenshot
 Here’s a look at the sign-in page built with React and TailwindCSS:
